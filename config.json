@@ -1,0 +1,23 @@
+{
+    "client": "5q2TcYFdqWUB-A",
+    "delay": 1800,
+    "password": "strong safety bo jackson",
+    "redirect": "http://www.example.com/unused/redirect/uri",
+    "secret": "EJr9JCk0lnGZ5sEbLWf87_xKFXs",
+    "subreddits": [
+        {
+            "format": {
+                "Madden NFL 16": "[**Madden 16** **{name}** {viewers}]({url})",
+                "Madden NFL 17": "[**Madden 17** **{name}** {viewers}]({url})"
+            },
+            "hitbox": false,
+            "maximum": 2143,
+            "maximum_record": "Jun 16 2016 at 04:47 AM UTC",
+            "name": "CardsCreations",
+            "top_cut": 10,
+            "wiki": "twitch"
+        }
+    ],
+    "user_agent": "MUTMod twitch livestream updator -- written by /u/rapptz and /u/NeonNytrox",
+    "username": "MUTMod"
+}
