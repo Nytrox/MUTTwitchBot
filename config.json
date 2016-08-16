@@ -7,8 +7,8 @@
     "subreddits": [
         {
             "format": {
-                "Madden NFL 16": "[**Madden 16** **{name}** {viewers}]({url})",
-                "Madden NFL 17": "[**Madden 17** **{name}** {viewers}]({url})"
+                "Madden NFL 16": "[^**Madden16** ^^**{name}** ^^^**{viewers}**]({url})",
+                "Madden NFL 17": "[^**Madden17** ^^**{name}** ^^^**{viewers}**]({url})"
             },
             "hitbox": false,
             "maximum": 2143,
