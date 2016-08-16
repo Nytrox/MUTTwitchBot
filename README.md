@@ -94,7 +94,8 @@ If the configuration is invalid, then the bot will tell you so.
 ## Website
 
 Currently run on reddit.mutogs.com
-username: reddit
+
+Username: reddit
 
 ## License
 
