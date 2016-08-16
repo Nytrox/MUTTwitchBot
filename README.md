@@ -91,6 +91,11 @@ If the configuration is invalid, then the bot will tell you so.
 
 [tut]: https://github.com/HypestTeam/livestreambot/wiki/Using-On-Your-Own-Subreddit
 
+## Website
+
+Currently run on reddit.mutogs.com
+username: reddit
+
 ## License
 
 The code is MIT licensed. You can check the license in the LICENSE file.
